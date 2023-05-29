@@ -18,6 +18,6 @@ test('get started link', async ({ page }) => {
   // Expects the URL to contain intro.
   await expect(page).toHaveURL(/.*intro/);
 
-  // test2
+  // test3
 
 });
